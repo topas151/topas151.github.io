@@ -1,11 +1,11 @@
 {
-    "name": "ark_school",
-    "short_name": "ark_school",
+    "name": "pagination_test",
+    "short_name": "pagination_test",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
     "theme_color": "#0175C2",
-    "description": "Online school",
+    "description": "A new Flutter project.",
     "orientation": "portrait-primary",
     "prefer_related_applications": false,
     "icons": [
