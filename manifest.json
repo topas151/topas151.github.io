@@ -1,11 +1,11 @@
 {
-    "name": "pagination_test",
-    "short_name": "pagination_test",
+    "name": "arkschool",
+    "short_name": "arkschool",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
     "theme_color": "#0175C2",
-    "description": "A new Flutter project.",
+    "description": "ARKSCHOOL – онлайн-школа подготовки к ЕГЭ и ОГЭ с опытными преподавателями, гибким расписанием и собственной платформой. Предоставляем обратную связь и контролируем прогресс всех учеников.",
     "orientation": "portrait-primary",
     "prefer_related_applications": false,
     "icons": [
